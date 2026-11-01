@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Office / Windows
+~$*
+~WRL*.tmp
+Thumbs.db
+desktop.ini
